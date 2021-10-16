@@ -34,3 +34,21 @@ https://www.youtube.com/watch?v=m4hvxzLoN_I
 用stack模拟dfs
 
 split用法，lastIndexOf用法，没有的时候返回-1
+
+# DP
+
+279. Perfect Squares : https://leetcode.com/problems/perfect-squares/
+
+121. Best Time to Buy and Sell Stock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+122. Best Time to Buy and Sell Stock II
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+
+123. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+
+309. Best Time to Buy and Sell Stock with Cooldown
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+
+can refer to this:
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75931/Easiest-JAVA-solution-with-explanations
