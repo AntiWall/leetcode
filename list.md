@@ -1,5 +1,13 @@
 https://github.com/labuladong/fucking-algorithm
 # monotone stack
+母题：
+
+496. Next Greater Element I
+https://leetcode.com/problems/next-greater-element-i/
+
+解析：
+https://www.youtube.com/watch?v=KZhjUwuMC0Y
+
 找下一个最大，下一个最小
 
 - 901 https://leetcode.com/problems/online-stock-span
@@ -14,6 +22,7 @@ https://github.com/labuladong/fucking-algorithm
 
 https://leetcode.com/problems/daily-temperatures/
 https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+496. Next Greater Element I
 https://leetcode.com/problems/next-greater-element-i/
 https://leetcode.com/problems/next-greater-element-ii/
 https://leetcode.com/problems/online-stock-span/
@@ -52,3 +61,16 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 
 can refer to this:
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75931/Easiest-JAVA-solution-with-explanations
+
+# Tree
+437. Path Sum III https://leetcode.com/problems/path-sum-iii/
+用prefix sum优化（就是 2 sum的hashmap方法)
+
+
+
+# BFS
+993. Cousins in Binary Tree https://leetcode.com/problems/cousins-in-binary-tree/
+简单题
+
+102. Binary Tree Level Order Traversal https://leetcode.com/problems/binary-tree-level-order-traversal/
+简单题
