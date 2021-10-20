@@ -69,8 +69,18 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/disc
 
 
 # BFS
+母题
+111. Minimum Depth of Binary Tree
+https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
 993. Cousins in Binary Tree https://leetcode.com/problems/cousins-in-binary-tree/
 简单题
 
 102. Binary Tree Level Order Traversal https://leetcode.com/problems/binary-tree-level-order-traversal/
 简单题
+
+# String
+
+151. Reverse Words in a String
+https://leetcode.com/problems/reverse-words-in-a-string/
+
