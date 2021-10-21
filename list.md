@@ -84,3 +84,15 @@ https://leetcode.com/problems/minimum-depth-of-binary-tree/
 151. Reverse Words in a String
 https://leetcode.com/problems/reverse-words-in-a-string/
 
+# random
+380. Insert Delete GetRandom O(1)
+https://leetcode.com/problems/insert-delete-getrandom-o1/
+
+插入和删除是O(1)， 但是随机必须维护一个array，否则得O(1),那array O(1)删除方法就是交换队尾和待删除元素，那么删除队尾，就是O(1)
+
+381. Insert Delete GetRandom O(1) - Duplicates allowed
+https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+
+# Math
+1018. Binary Prefix Divisible By 5
+https://leetcode.com/problems/binary-prefix-divisible-by-5/
