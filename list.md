@@ -96,3 +96,10 @@ https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
 # Math
 1018. Binary Prefix Divisible By 5
 https://leetcode.com/problems/binary-prefix-divisible-by-5/
+
+# priority Queue
+
+451. Sort Characters By Frequency
+https://leetcode.com/problems/sort-characters-by-frequency/
+
+这题还可以用桶排序做，可以看看
