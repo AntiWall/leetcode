@@ -103,3 +103,10 @@ https://leetcode.com/problems/binary-prefix-divisible-by-5/
 https://leetcode.com/problems/sort-characters-by-frequency/
 
 这题还可以用桶排序做，可以看看
+
+# binary search
+154. Find Minimum in Rotated Sorted Array II
+
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+
+最难的binary search，所有的边界条件都是定死的，一定要注意不能rule out correct answer
