@@ -33,6 +33,13 @@ https://leetcode.com/problems/largest-rectangle-in-histogram/
 https://www.youtube.com/watch?v=m4hvxzLoN_I
 
 # 二叉搜索树 BST
+783. Minimum Distance Between BST Nodes
+
+https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+
+这个中序遍历需要多复习
+
+
 - 1008 https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 
 # Stack
@@ -83,6 +90,9 @@ https://leetcode.com/problems/minimum-depth-of-binary-tree/
 
 151. Reverse Words in a String
 https://leetcode.com/problems/reverse-words-in-a-string/
+
+541. Reverse String II
+https://leetcode.com/problems/reverse-string-ii/
 
 # random
 380. Insert Delete GetRandom O(1)
