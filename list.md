@@ -52,6 +52,10 @@ https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 split用法，lastIndexOf用法，没有的时候返回-1
 
 # DP
+2d dp 母題，非常简单。
+62. Unique Paths
+https://leetcode.com/problems/unique-paths/
+
 
 279. Perfect Squares : https://leetcode.com/problems/perfect-squares/
 
@@ -68,6 +72,8 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 
 can refer to this:
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75931/Easiest-JAVA-solution-with-explanations
+
+
 
 # Tree
 437. Path Sum III https://leetcode.com/problems/path-sum-iii/
