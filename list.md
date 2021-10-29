@@ -82,9 +82,17 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/disc
 
 
 # BFS
-母题
+母题1
 111. Minimum Depth of Binary Tree
 https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+母题2
+200. 
+
+母题3
+994. Rotting Oranges
+https://leetcode.com/problems/rotting-oranges/
+
 
 993. Cousins in Binary Tree https://leetcode.com/problems/cousins-in-binary-tree/
 简单题
@@ -126,3 +134,10 @@ https://leetcode.com/problems/sort-characters-by-frequency/
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 
 最难的binary search，所有的边界条件都是定死的，一定要注意不能rule out correct answer
+
+
+540. Single Element in a Sorted Array
+
+https://leetcode.com/problems/single-element-in-a-sorted-array/
+
+可以思考一下怎么优化代码，答案写的都不是很好
