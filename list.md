@@ -155,3 +155,8 @@ https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 https://leetcode.com/problems/single-element-in-a-sorted-array/
 
 可以思考一下怎么优化代码，答案写的都不是很好
+
+# bit manipulation
+
+260. Single Number III[https://leetcode.com/problems/single-number-iii/]
+这题是XOR，非常麻烦得看一下注释
