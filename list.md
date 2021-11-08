@@ -33,6 +33,11 @@ https://leetcode.com/problems/largest-rectangle-in-histogram/
 https://www.youtube.com/watch?v=m4hvxzLoN_I
 
 # 二叉搜索树 BST
+96. Unique Binary Search Trees [https://leetcode.com/problems/unique-binary-search-trees/]
+DP 或者 递归写，神奇的题目
+
+
+
 783. Minimum Distance Between BST Nodes
 
 https://leetcode.com/problems/minimum-distance-between-bst-nodes/
