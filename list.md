@@ -10,8 +10,15 @@ https://www.youtube.com/watch?v=KZhjUwuMC0Y
 
 找下一个最大，下一个最小
 
+
+739. Daily Temperatures
+[https://leetcode.com/problems/daily-temperatures/]
+
+这题是把index放入单调栈，如果反向写的话，不用栈，空间可以优化为O(1)
+
 - 901 https://leetcode.com/problems/online-stock-span
 - 85 https://leetcode.com/problems/maximal-rectangle/
+
 
 这题分成两部分，先构建H 高度数组，然后通过单调栈来找 数组的连续最大高度
 
