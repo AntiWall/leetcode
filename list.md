@@ -85,6 +85,8 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 can refer to this:
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75931/Easiest-JAVA-solution-with-explanations
 
+368. Largest Divisible Subset[https://leetcode.com/problems/largest-divisible-subset/]
+DP + sort, not easy, should take more time to review
 
 
 # Tree
